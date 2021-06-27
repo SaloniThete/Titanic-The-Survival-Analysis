@@ -1,6 +1,6 @@
 # Titanic-The-Survival-Analysis
 This is a personal project I worked on using python. The project uses the Titanic dataset from Kaggle and performing analysis on passengers that survived and those that did not survive.The goal of this repository is to provide an example of an analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions.
-# Data can be Found at: [Titanic Dataset](https://www.dropbox.com/s/lzh5073xwa2g7q3/titanic_train.csv?dl=0)
+### Data can be Found at: [Titanic Dataset](https://www.dropbox.com/s/lzh5073xwa2g7q3/titanic_train.csv?dl=0)
 
 ## The Notebook will show basic examples of:
 ### Data Handling
