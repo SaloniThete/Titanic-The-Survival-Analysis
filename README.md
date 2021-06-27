@@ -3,7 +3,7 @@ This is a personal project I worked on using python. The project uses the Titani
 # Data can be Found at: [Titanic Dataset]('D:\\saloni\\saloni\\titanic_train.csv')
 
 ## The Notebook will show basic examples of:
-# Data Handling
+### Data Handling
   - Importing Data with Pandas
   - Cleaning Data
   - Exploring Data through Visualizations with Matplotlib
