@@ -8,7 +8,7 @@ This is a personal project I worked on using python. The project uses the Titani
   - Cleaning Data
   - Exploring Data through Visualizations with Matplotlib
 
-# Data Analysis
+### Data Analysis
   - Supervised Machine learning Techniques: + Logit Regression Model + Plotting results + Support Vector Machine (SVM) using 3 kernels + Basic Random Forest + Plotting results.
 
 
